@@ -1,0 +1,5 @@
+node_modules
+tm_env
+.ipynb_checkpoints
+package.json
+package-lock.json
